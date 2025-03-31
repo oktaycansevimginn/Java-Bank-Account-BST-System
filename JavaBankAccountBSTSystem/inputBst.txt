@@ -1,0 +1,11 @@
+5001, Ahmet Günay, Bursa Subesi, 5511.0
+5002, Kemal Aydın, Konak Subesi, 3707.0
+5003, Veli Demir, Izmir Subesi, 5779.0
+5004, Zeynep Kaya, Ankara Subesi, 5447.0
+5005, Veli Boz, Ankara Subesi, 7748.0
+5006, Zeynep Aydın, Uskudar Subesi, 1544.0
+5007, Ahmet Sahin, Iskenderun Subesi, 8765.0
+5008, Mehmet Yılmaz, Istanbul Subesi, 8799.0
+5009, Ali Karaca, Akyaka Subesi, 288.0
+5010, Selin Aydın, Haymana Subesi, 4132.0
+5089, Oktay Can, Aydın Subesi, 9450.0
